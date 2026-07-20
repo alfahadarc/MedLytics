@@ -1,0 +1,10 @@
+cff-version: 1.2.0
+message: "If you use this software, please cite it as below."
+authors:
+  - family-names: "Al Fahad"
+    given-names: "Abdullah"
+title: "MedLytics: A text analysis package for medical text analytics using NLP libraries"
+version: "0.1.0"
+doi: "10.5281/zenodo.21448836" 
+date-released: 2025-02-26
+url: "https://github.com"
